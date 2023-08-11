@@ -31,3 +31,7 @@ header {
     max-width: 1200px;
     margin: 0 auto;
 }
+
+.card {
+    aspect-ratio: 3/4;;
+}
